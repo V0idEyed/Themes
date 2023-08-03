@@ -1,6 +1,6 @@
 {
-    "name": "m:robe",
-    "description": "the worst theme you could ever use",
+    "name": "m:robe Ourple",
+    "description": "the worst theme you could ever use, but ourple",
     "authors": [
         {
             "name": "emily (sdh)",
@@ -9,13 +9,13 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#ff0000"
+            "#ff33cc"
         ],
         "HEADER_SECONDARY": [
-            "#ff0000"
+            "#ff33cc"
         ],
         "TEXT_NORMAL": [
-            "#ff0000"
+            "#ff33cc"
         ],
         "TEXT_MUTED": [
             "#7f0000"
@@ -24,13 +24,13 @@
             "#ec002f"
         ],
         "INTERACTIVE_NORMAL": [
-            "#ff0000"
+            "#ff33cc"
         ],
         "INTERACTIVE_HOVER": [
             "#DCDDDE"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ff0000"
+            "#ff33cc"
         ],
         "INTERACTIVE_MUTED": [
             "#7f0000"
@@ -48,7 +48,7 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#ff0000"
+            "#ff33cc"
         ],
         "BACKGROUND_FLOATING": [
             "#000000"
@@ -81,13 +81,13 @@
             "transparent"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#ff0000"
+            "#ff33cc"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "000000"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#ff0000"
+            "#ff33cc"
         ],
         "SCROLLBAR_AUTO_TRACK": [
             "#000000"
@@ -99,13 +99,13 @@
             "#ff0000"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#ff0000"
+            "#ff33cc"
         ],
         "CHANNEL_ICON": [
-            "#ff0000"
+            "#ff33cc"
         ],
         "CHANNELS_DEFAULT": [
-            "#ff0000"
+            "#ff33cc"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
@@ -115,12 +115,12 @@
         ]
     },
     "rawColors": {
-        "PRIMARY": "#ff0000",
-        "PRIMARY_100": "#ff0000",
+        "PRIMARY": "#ff33cc",
+        "PRIMARY_100": "#ff33cc",
         "PRIMARY_200": "#FFFFFF",
-        "PRIMARY_300": "#ff0000",
-        "PRIMARY_360": "#ff0000",
-        "PRIMARY_400": "#ff0000",
+        "PRIMARY_300": "#ff33cc",
+        "PRIMARY_360": "#ff33cc",
+        "PRIMARY_400": "#ff33cc",
         "PRIMARY_500": "#000000",
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#000000",
@@ -128,21 +128,21 @@
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
         "PRIMARY_900": "#090909",
-        "BRAND_360": "#ff0000",
-        "YELLOW_300": "#ff0000",
-        "BRAND_260": "#ff0000",
-        "BRAND_500": "#ff0000",
-        "BRAND_560": "#ff0000",
-        "GREEN_360": "#ff0000",
-        "RED_400": "#ff0000",
-        "ORANGE_345": "#ff0000",
+        "BRAND_360": "#ff33cc",
+        "YELLOW_300": "#ff33cc",
+        "BRAND_260": "#ff33cc",
+        "BRAND_500": "#ff33cc",
+        "BRAND_560": "#ff33cc",
+        "GREEN_360": "#ff33cc",
+        "RED_400": "#ff33cc",
+        "ORANGE_345": "#ff33cc",
         "RED_560": "#e83e33",
-        "GREEN_345": "#ff0000",
-        "BLUE_345": "#ff0000"
+        "GREEN_345": "#ff33cc",
+        "BLUE_345": "#ff33cc"
     },
     "spec": 2,
     "background": {
-        "url": "https://cdn.discordapp.com/attachments/601530005373321245/1090967844163965040/c3c2786054cd871d7f89b428e13d92e3.jpg",
+        "url": "https://wallpapers.com/images/hd/cloudy-black-and-purple-phone-pvavl01vhe96nqfx.jpg",
         "alpha": 0.5,
         "color": "#081924"
     }
