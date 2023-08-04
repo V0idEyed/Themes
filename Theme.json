@@ -107,8 +107,14 @@
         "CHANNELS_DEFAULT": [
             "#b30ba7"
         ],
-        "CHAT_BACKGROUND": [
+        "REDESIGN_ACTIVITY_CARD_BORDER": [
             "#000000"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#2d0333"
+        ],
+        "CHAT_BACKGROUND": [
+            "#2d0333"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
             "#DCDDDE"
