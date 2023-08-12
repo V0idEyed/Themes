@@ -30,7 +30,7 @@
             "#7b0a8a"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#410645"
+            "#b30ba7"
         ],
         "INTERACTIVE_MUTED": [
             "#54065e"
@@ -75,7 +75,7 @@
             "transparent"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#b30ba7"
+            "#1a1a1a"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "transparent"
@@ -105,7 +105,7 @@
             "#b30ba7"
         ],
         "CHANNELS_DEFAULT": [
-            "#410645"
+            "#b30ba7"
         ],
         "REDESIGN_ACTIVITY_CARD_BORDER": [
             "#2d0333"
@@ -152,4 +152,4 @@
         "alpha": 0.5,
         "color": "#081924"
     }
-}
+    }
