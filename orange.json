@@ -1,0 +1,155 @@
+{
+  "name": "It's Orang!",
+  "description": "me when i fuckin Oragne",
+  "authors": [
+    {
+      "name": "KKing",
+      "id": "Noneya"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#eea508"
+    ],
+    "HEADER_SECONDARY": [
+      "#eea508"
+    ],
+    "TEXT_NORMAL": [
+      "#eea508"
+    ],
+    "TEXT_MUTED": [
+      "#8a6f0a"
+    ],
+    "TEXT_DANGER": [
+      "#8a6f0a"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#eea508"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#8a6f0a"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#7a6209"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#5e4406"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#000000"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#332003"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#332403"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#000000"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#000000"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#transparent"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "transparent"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#1a1a1a"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#eea508"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "000000"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#eea508"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#000000"
+    ],
+    "KEYBOARD": [
+      "#000000"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#eea508"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#eea508"
+    ],
+    "CHANNEL_ICON": [
+      "#eea508"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#eea508"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BORDER": [
+      "#331c03"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#332003"
+    ],
+    "CHAT_BACKGROUND": [
+      "#000000"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#DCDDDE"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY": "#eea508",
+    "PRIMARY_100": "#eea508",
+    "PRIMARY_200": "#FFFFFF",
+    "PRIMARY_300": "#eea508",
+    "PRIMARY_360": "#eea508",
+    "PRIMARY_400": "#eea508",
+    "PRIMARY_500": "#000000",
+    "PRIMARY_600": "#000000",
+    "PRIMARY_630": "#000000",
+    "PRIMARY_660": "#000000",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_800": "#000000",
+    "PRIMARY_900": "#eea508",
+    "BRAND_360": "#eea508",
+    "YELLOW_300": "#eea508",
+    "BRAND_260": "#eea508",
+    "BRAND_500": "#eea508",
+    "BRAND_560": "#eea508",
+    "GREEN_360": "#eea508",
+    "RED_400": "#eea508",
+    "ORANGE_345": "#eea508",
+    "RED_560": "#eea508",
+    "GREEN_345": "#eea508",
+    "BLUE_345": "#eea508"
+  },
+  "spec": 2,
+  "background": {
+    "url": "https://i.imgur.com/oQ8scyF.jpg",
+    "alpha": 0.5,
+    "color": "#081924"
+  }
+}
