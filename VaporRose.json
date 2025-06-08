@@ -1,0 +1,188 @@
+{
+    "name": "VaporRose",
+    "description": "V a p o r o s e",
+    "version": "2",
+    "authors": [
+        {
+            "name": "Rairof",
+            "id": "807170846497570848"
+        },
+        {
+            "name": "Voidlax",
+            "id": "323422632408121346"
+        }
+    ],
+    "semanticColors": {
+        "ANDROID_RIPPLE": [
+            "#8A2BE2"
+        ],
+        "CHAT_BACKGROUND": [
+            "#1A0A2E"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#FF00FF"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#2C0E4B"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#C7158533"
+        ],
+        "BACKGROUND_MENTIONED_HOVER": [
+            "#FF1493"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#8A2BE2"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "#00000000"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#8A2BE2"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "00000000"
+        ],
+        "ACTIVITY_CARD_BACKGROUND": [
+            "#1A0A2E"
+        ],
+        "STATUS_DANGER": [
+            "#FF00FF"
+        ],
+        "HEADER_PRIMARY": [
+            "#E0B0FF"
+        ],
+        "HEADER_SECONDARY": [
+            "#DDA0DD"
+        ],
+        "TEXT_NORMAL": [
+            "#F0F8FF"
+        ],
+        "TEXT_MUTED": [
+            "#C6A0FF"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#E0B0FF"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#FF00FF"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#FF00FF"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#800080"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#1A0A2E"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#2C0E4B"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#3A185B"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#4B216D"
+        ],
+        "BACKGROUND_ACCENT_GRADIENT": [
+            "#8A2BE2",
+            "#FF00FF"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#3A185B"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#3A185B"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#4B216D"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#4B216D"
+        ],
+        "BUTTON_PRIMARY_DEFAULT": [
+            "#8A2BE2"
+        ],
+        "BUTTON_PRIMARY_HOVER": [
+            "#9932CC"
+        ],
+        "BUTTON_PRIMARY_PRESSED": [
+            "#6A0DAD"
+        ],
+        "BUTTON_SECONDARY_DEFAULT": [
+            "#C71585"
+        ],
+        "BUTTON_SECONDARY_HOVER": [
+            "#FF1493"
+        ],
+        "BUTTON_SECONDARY_PRESSED": [
+            "#8B008B"
+        ],
+        "BUTTON_DANGER_DEFAULT": [
+            "#FF00FF"
+        ],
+        "BUTTON_DANGER_HOVER": [
+            "#C71585"
+        ],
+        "BUTTON_DANGER_PRESSED": [
+            "#8B008B"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#8A2BE2"
+        ],
+        "INPUT_BACKGROUND": [
+            "#1A0A2E"
+        ],
+        "CHANNEL_TEXT_AREA_BACKGROUND": [
+            "#2C0E4B"
+        ],
+        "SEARCH_INPUT_BACKGROUND": [
+            "#3A185B"
+        ],
+        "KEYBOARD_SHORTCUT_TAG_BACKGROUND": [
+            "#8A2BE2"
+        ],
+        "TEXT_LINK": [
+            "#FF00FF"
+        ],
+        "TEXT_DANGER": [
+            "#FF1493"
+        ],
+        "TEXT_POSITIVE": [
+            "#00FFFF"
+        ],
+        "TEXT_WARNING": [
+            "#FFFF00"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_DARK_300": "#8A2BE2",
+        "PRIMARY_DARK_360": "#FF00FF",
+        "PRIMARY_DARK_400": "#C71585",
+        "PRIMARY_DARK_500": "#8B008B",
+        "PRIMARY_DARK_600": "#6A0DAD",
+        "BRAND_NEW_500": "#9932CC",
+        "ORANGE_345": "#FFA500",
+        "RED_400": "#FF1493",
+        "GREEN_360": "#00FFFF",
+        "YELLOW_300": "#FFFF00"
+    },
+    "fonts": {
+        "ggsans-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-Normal.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-Medium.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-SemiBold.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-Bold.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-ExtraBold.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-NormalItalic.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-MediumItalic.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-SemiBoldItalic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-ExtraBold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-Normal.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-NormalItalic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-SemiBold.ttf?raw=1",
+        "ggmono-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-SemiBold.ttf?raw=1"
+    }
+}
