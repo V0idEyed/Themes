@@ -1,7 +1,6 @@
 {
     "name": "VaporRose",
     "description": "V a p o r o s e",
-    "version": "2",
     "authors": [
         {
             "name": "Rairof",
@@ -12,6 +11,12 @@
             "id": "323422632408121346"
         }
     ],
+    "spec": 2,
+    "background": {
+        "url": "https://i.imgur.com/aqaY82K.png",
+        "alpha": 0.7,
+        "color": "#100F14"
+    },
     "semanticColors": {
         "ANDROID_RIPPLE": [
             "#8A2BE2"
