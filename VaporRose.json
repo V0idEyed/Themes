@@ -1,15 +1,15 @@
 {
     "name": "VaporRose",
-    "description": "Rosie but V a p o r",
+    "description": "RosieDark theme but V a p o r",
     "version": "1.0",
     "authors": [
         {
-            "name": "Rairof",
-            "id": "807170846497570848"
-        },
-        {
             "name": "Voidlax",
             "id": "323422632408121346"
+        },
+        {
+            "name": "Rairof",
+            "id": "807170846497570848"
         }
     ],
     "semanticColors": {
@@ -372,7 +372,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://i.imgur.com/aqaY82K.png",
+        "url": "https://i.imgur.com/WUgPmid.png",
         "OPACITY": 0
     },
     "plus": {
